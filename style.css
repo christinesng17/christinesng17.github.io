@@ -182,7 +182,7 @@ section{
 }
 
 .home-content p{
-    color: #bdbdbd;
+    color: #756AB6;
     line-height: 1.6;
 }
 
@@ -202,7 +202,7 @@ section{
 
 .info-box span{
     font-size: .9rem;
-    color: #bdbdbd;
+    color: #756AB6;
 }
 
 .btn-box{
@@ -355,7 +355,7 @@ section{
 }
 
 .about .img-about img{
-    max-width: 1000px;
+    max-width: 400px;
     height: auto;
     
 }
